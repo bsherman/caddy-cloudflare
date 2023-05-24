@@ -20,7 +20,6 @@ jobs:
   push-ghcr:
     name: Build and push image
     runs-on: ubuntu-22.04
-    needs: get_versions
     permissions:
       contents: read
       packages: write
