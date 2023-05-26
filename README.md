@@ -1,6 +1,6 @@
 # caddy-cloudflare
 
-[![build-toolbox](https://github.com/bsherman/caddy-cloudflare/actions/workflows/build.yml/badge.svg)](https://github.com/bsherman/caddy-cloudflare/actions/workflows/build.yml)
+[![build-caddy](https://github.com/bsherman/caddy-cloudflare/actions/workflows/build.yml/badge.svg)](https://github.com/bsherman/caddy-cloudflare/actions/workflows/build.yml)
 
 Customized, daily updated, Caddy container with Cloudflare support included.
 
